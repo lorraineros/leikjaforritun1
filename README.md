@@ -1,6 +1,6 @@
 # leikjaforritun1
 
-1. Game loop er lykkja sem keyrir stanslaust á meðan leikur er í gang. Hvert skipti sem lykkjan er keyrð þarf hún að process-a user input, uppfæra stöðu leiksins og render-a leikinn. Lykkjan þarf að halda utan um tímann til að stjórna rate-inu af gameplay-inu og lykkjan þarf að keyra leikinn á stöðugum hraða þrátt fyrir mismun í vélbúnaði.
+##1. Game loop er lykkja sem keyrir stanslaust á meðan leikur er í gang. Hvert skipti sem lykkjan er keyrð þarf hún að process-a user input, uppfæra stöðu leiksins og render-a leikinn. Lykkjan þarf að halda utan um tímann til að stjórna rate-inu af gameplay-inu og lykkjan þarf að keyra leikinn á stöðugum hraða þrátt fyrir mismun í vélbúnaði.
 2. Leikjavél er hugbúnaður sem styður við þróun tölvuleikja. Leikjavél er hugbúnaðarrammi sem hægt er að byggja þróun tölvuleiksins á. Grunnvirkni leikjavélar er myndsetning fyrir tvívíðar eða þrívíðar myndir eftir atvikum, eðlisfræðivél eða árekstrarskynjun, hljóð, kvikun, netvirkni og skriftun. Með því að nota sömu leikjavélina aftur og aftur er hægt að draga verulega úr vinnu við þróun tölvuleikja. 
 3. collision detection virkar með því að í hverju update í gameloop er tékkað hvort að boundry á tvem hlutum krossast á eitthverjum púnt. 
 4.Asset eru hlutir og tól sem hægt er að import-a og nota í project-um.
