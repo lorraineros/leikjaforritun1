@@ -179,6 +179,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4946156101426383631, guid: 28254d455525c2241b1a04808e1db48d,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28254d455525c2241b1a04808e1db48d, type: 3}
 --- !u!1001 &43270091
@@ -316,6 +321,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Obstacle (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946156101426383631, guid: 28254d455525c2241b1a04808e1db48d,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28254d455525c2241b1a04808e1db48d, type: 3}
@@ -731,6 +741,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4946156101426383631, guid: 28254d455525c2241b1a04808e1db48d,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28254d455525c2241b1a04808e1db48d, type: 3}
 --- !u!1 &599909554 stripped
@@ -874,6 +889,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Obstacle (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946156101426383631, guid: 28254d455525c2241b1a04808e1db48d,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28254d455525c2241b1a04808e1db48d, type: 3}
@@ -1836,6 +1856,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obstacle (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4946156101426383631, guid: 28254d455525c2241b1a04808e1db48d,
+        type: 3}
+      propertyPath: m_TagString
+      value: Obstacle
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 28254d455525c2241b1a04808e1db48d, type: 3}
 --- !u!1001 &1094686638743287507
@@ -2107,6 +2132,11 @@ PrefabInstance:
     - target: {fileID: 4946156101426383631, guid: 28254d455525c2241b1a04808e1db48d,
         type: 3}
       propertyPath: m_Name
+      value: Obstacle
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946156101426383631, guid: 28254d455525c2241b1a04808e1db48d,
+        type: 3}
+      propertyPath: m_TagString
       value: Obstacle
       objectReference: {fileID: 0}
     m_RemovedComponents: []
